@@ -10,7 +10,7 @@ Tujuan Aplikasi :
 - Mengurangi antrian rumah sakit
 - Edukasi kesehatan masyarakat
 
-## Fitur
+## FITUR & TIMELINE 
 1.
 2.
 3.
