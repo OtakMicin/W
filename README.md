@@ -1,5 +1,5 @@
 ## IDE PROJECT
- Aplikasi yang membantu user untuk : 
+ Aplikasi yang membantu user untuk :
 - Mengecek kondisi kesehatan awal (self-check)
 - Booking konsultasi dokter
 - Mendapatkan informasi obat & kesehatan
