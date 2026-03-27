@@ -27,12 +27,3 @@ Tujuan Aplikasi :
 14.
 15.
 
-## Tech Stack
-- Frontend: React / Flutter
-- Backend: Node.js / Laravel
-- Database: MySQL / MongoDB
-
-## Tim
-- Nama 1
-- Nama 2
-- Nama 3
