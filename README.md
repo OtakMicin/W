@@ -31,7 +31,7 @@ Tujuan Aplikasi :
 9. Database obat (Webpage dengan informasi berbagai macam obat dan kandungannya) - Medicine Page
 10. Beli obat (Seperti online shop pada umumnya dan bisa melakukan checkout) - Shopping Page
 11. Informasi penyakit umum (Webpage dengan informasi beberapa penyakit yang umum menyerang manusia) - Illness Page
-12. Kalender (Menampilkan tanggal, daily reminder untuk tidur, makan, dan lain lain) - Healthy Page
+12. Kalender (Menampilkan tanggal, daily reminder untuk tidur, makan, dan lain lain) - Home Page
 13. Jenis jenis penyakit lanjutan dan gejalanya (Webpage dengan informasi beberapa penyakit lanjutan atau yang parah dan gejala awalnya (berbeda dengan penyakit yang umum menyerang)) - Disease Page
 
 
@@ -43,7 +43,7 @@ Tujuan Aplikasi :
 
 **SISTEM**
 
-16. Notifikasi (jadwal, obat, konsultasi) (Menampilkan notifikasi by kalender yang sudah mendekati jadwal reminder) - Universal
+16. Notifikasi (jadwal, obat, konsultasi) (Menampilkan notifikasi by kalender yang sudah mendekati jadwal reminder) - Home Page
 17. Akses untuk memilih dokter untuk konsultasi offline (Memilih dokter untuk konsultasi offline/janji temu) - Doctor Page
 18. Rating & review dokter (Lanjutan dari konsultasi offline atau emang mau rating dokternya secara online) - Doctor Page
 19. Dokter yang tersedia dan tidak - Doctor Page
